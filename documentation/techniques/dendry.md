@@ -1,0 +1,1 @@
+Dendry is a noise function introduced by Gaillard et al. [2019] that generates dendritic noise patterns; e.g., gullies and hydraulically eroded channels. 

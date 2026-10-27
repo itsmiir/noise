@@ -6,7 +6,7 @@ This repository is about noise. There are a few definitions for this word[^1], b
 
 **A noise function in $n$ dimensions is a [deterministic](./math-syntax.md#deterministic) [mapping](./math-syntax.md#functions-and-mappings) $N_n: \mathbb Z\times\mathbb{R}^{n}\to\mathbb [-1, 1]$**. 
 
-See [this page](./math-syntax.md#functions-maps-and-set-notation) for an explanation of the math syntax. I try to hyperlink to specific definitions where possible.
+See [this page](./math-syntax.md#functions-maps-and-set-notation) for an explanation of the math syntax. I try to hyperlink to specific definitions where possible
 
 Putting this all together, a plain English way of writing this definition might be like this:
 
